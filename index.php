@@ -11,7 +11,6 @@
  *
  * @package rt-assign
  */
-
  
 get_header();
 ?>
