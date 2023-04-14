@@ -11,4 +11,4 @@
       <img src="<?php echo  get_theme_file_uri(); ?>/assets/images/right-arrow.png" alt="">
     </div>
   </div>
-</div>
+</div> 

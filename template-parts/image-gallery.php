@@ -12,7 +12,7 @@
   );
 
   $query = new WP_Query( $query_images_args );
-  
+   
   if ( $query -> have_posts() ):
       while ( $query -> have_posts() ):
         $query -> the_post();

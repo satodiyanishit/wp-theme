@@ -11,7 +11,7 @@
 	if ( ! siteNavigation ) {
 		return; 
 	}
-
+ 
 	const button = siteNavigation.getElementsByTagName( 'button' )[ 0 ];
 
 	// Return early if the button doesn't exist.

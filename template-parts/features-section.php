@@ -11,7 +11,7 @@
       <div class="features_flex">
         <img src="https://i.ibb.co/LdJggBL/feature-icons-2.png" alt="" class="features_flex-img">
         <div class="features_flex-info">
-            <h2>Multimedia</h2>
+            <h2>Multimedia</h2> 
             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>
         </div>
       </div>
